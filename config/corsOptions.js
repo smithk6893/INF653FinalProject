@@ -1,5 +1,5 @@
 // Cross Origin Resource Sharing
-const whitelist = ['https://dot-marked-action.glitch.me', 'http://localhost:3000', 'https://dazzling-snickerdoodle-777101.netlify.app'];
+const whitelist = ['https://inf653finalproject.kasmith22.repl.co/', 'http://localhost:3000', 'https://dazzling-snickerdoodle-777101.netlify.app'];
 
 const corsOptions = {
     origin: (origin, callback) => {
